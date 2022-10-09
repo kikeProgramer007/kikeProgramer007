@@ -26,3 +26,34 @@
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kikeProgramer007&show_icons=true&locale=en&layout=compact" alt="kikeProgramer007" /></p>
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=kikeProgramer007&show_icons=true&locale=en" alt="kikeProgramer007" /></p>
 <hr/>
+
+### Presentación de Proyectos desarrollados
+
+Hola, aquí puedes ver en tiempo real algunos de ellos.
+
+| Rank |               Proyecto               |                   Demo                    |
+|-----:|--------------------------------------|-------------------------------------------|
+|     1| Sistema para un Restaurante V. 2.0   | https://kikeprogrammer.com/               |
+|     2| Sistema para un Restaurante V. 1.0   | https://pos.kikeprogrammer.com/           |
+|     3| E-commerce de Productos Alimenticios | https://pedidos.kikeprogrammer.com/       |
+|     4| Sistema de Panaderia con Delivery    | https://panaderia.kikeprogrammer.com/     |
+|     5| Sistema Punto de Venta con Ticket    | https://vendamos.kikeprogrammer.com/      |
+|     6| Sistema para Farmacia con Ticket     | https://farmacia.kikeprogrammer.com/      |
+|     7| CRUD & Respaldo de Base de Datos     | https://store.kikeprogrammer.com/         |
+|     8| CRUD con Imagenes en PHP8            | https://crud.soykike.com/                 |
+|     9| CRUD en Laravel 7.                   | https://laravel7crud.kikeprogrammer.com/  |
+|    10| Blog de Café con consejos y Cursos   | https://kikeprogramer007.github.io/WebCafe/     |
+|    11| Venta de Casas y Departamentos       | https://kikeprogramer007.github.io/BienesRaices/      |
+|    12| Matrix mediante Html,Css,JavaScript  | https://kikeprogramer007.github.io/fondobinario1/     |
+
+
+### Lenguajes de programacíon
+
+Hi, I'm Enrique. You might recognize me as GitHub's mascot.
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+
