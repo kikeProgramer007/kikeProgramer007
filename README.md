@@ -29,7 +29,7 @@
 
 ### Presentación de Proyectos desarrollados
 
-Hola, aquí puedes ver en tiempo real algunos de ellos.
+> Hola, aquí puedes ver en tiempo real algunos de ellos.
 
 | Rank |               Proyecto               |                   Demo                    |
 |-----:|--------------------------------------|-------------------------------------------|
@@ -48,12 +48,22 @@ Hola, aquí puedes ver en tiempo real algunos de ellos.
 
 
 ### Lenguajes de programacíon
-
-Hi, I'm Enrique. You might recognize me as GitHub's mascot.
+---
+> Hi, I'm Enrique. You might recognize me as GitHub's mascot.
 
 | Rank | Languages |
 |-----:|-----------|
 |     1| Javascript|
 |     2| Python    |
 |     3| SQL       |
+---
+<details>
+<summary>My top languages</summary>
 
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+  
+</details>
