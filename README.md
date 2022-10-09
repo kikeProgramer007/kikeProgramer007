@@ -7,9 +7,9 @@
 
 <h3 align="left">Redes sociales:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/enrique-condori-224b72208" target="_blank"><img align="center" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="enrique-condori-224b72208" height="50" width="50" style="color: #FFF;" /></a>
-  <a href="https://www.facebook.com/EnriquePlayer" target="_blank"><img align="center" src="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" alt="kikeprogramer007" height="50" width="50" /></a>
-<a href="https://www.instagram.com/condori2667/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="kikeprogramer007" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/enrique-condori-224b72208" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/86984317/194783856-8c0ccee4-c125-4dc4-a223-fb40cb481da4.png" alt="enrique-condori-224b72208" height="44" width="44" style="color: #FFF;" /></a>
+  <a href="https://www.facebook.com/EnriquePlayer" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/86984317/194783572-aad81dc0-dc7e-4114-be9a-0e298275d401.png" alt="kikeprogramer007" height="50" width="50" /></a>
+<a href="https://www.instagram.com/condori2667/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/86984317/194783655-7cd029b9-1ded-4a60-bf72-4e5249aa0b6b.png" alt="kikeprogramer007" height="50" width="50" /></a>
 </p>
 
 
