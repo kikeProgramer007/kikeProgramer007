@@ -31,20 +31,20 @@
 
 > Hola, aquí puedes ver en tiempo real algunos de ellos.
 
-| Rank |               Proyecto               |                   Demo                    |
-|-----:|--------------------------------------|-------------------------------------------|
-|     1| Sistema para un Restaurante V. 2.0   | https://kikeprogrammer.com/               |
-|     2| Sistema para un Restaurante V. 1.0   | https://pos.kikeprogrammer.com/           |
-|     3| E-commerce de Productos Alimenticios | https://pedidos.kikeprogrammer.com/       |
-|     4| Sistema de Panaderia con Delivery    | https://panaderia.kikeprogrammer.com/     |
-|     5| Sistema Punto de Venta con Ticket    | https://vendamos.kikeprogrammer.com/      |
-|     6| Sistema para Farmacia con Ticket     | https://farmacia.kikeprogrammer.com/      |
-|     7| CRUD & Respaldo de Base de Datos     | https://store.kikeprogrammer.com/         |
-|     8| CRUD con Imagenes en PHP8            | [Hello, world!](https://crud.soykike.com/){target="_blank"}               |
-|     9| CRUD en Laravel 7.                   | https://laravel7crud.kikeprogrammer.com/  |
-|    10| Blog de Café con consejos y Cursos   | https://kikeprogramer007.github.io/WebCafe/     |
-|    11| Venta de Casas y Departamentos       | https://kikeprogramer007.github.io/BienesRaices/      |
-|    12| Matrix mediante Html,Css,JavaScript  | https://kikeprogramer007.github.io/fondobinario1/     |
+| Rank |               Proyecto               |                       Demo                        |
+|-----:|--------------------------------------|---------------------------------------------------|
+|     1| Sistema para un Restaurante V. 2.0   | https://kikeprogrammer.com/                       |
+|     2| Sistema para un Restaurante V. 1.0   | https://pos.kikeprogrammer.com/                   |
+|     3| E-commerce de Productos Alimenticios | https://pedidos.kikeprogrammer.com/               |
+|     4| Sistema de Panaderia con Delivery    | https://panaderia.kikeprogrammer.com/             |
+|     5| Sistema Punto de Venta con Ticket    | https://vendamos.kikeprogrammer.com/              |
+|     6| Sistema para Farmacia con Ticket     | https://farmacia.kikeprogrammer.com/              |
+|     7| CRUD & Respaldo de Base de Datos     | https://store.kikeprogrammer.com/                 |
+|     8| CRUD con Imagenes en PHP8            | https://crud.soykike.com                          |
+|     9| CRUD en Laravel 7.                   | https://laravel7crud.kikeprogrammer.com/          |
+|    10| Blog de Café con consejos y Cursos   | https://kikeprogramer007.github.io/WebCafe/       |
+|    11| Venta de Casas y Departamentos       | https://kikeprogramer007.github.io/BienesRaices/  |
+|    12| Matrix mediante Html,Css,JavaScript  | https://kikeprogramer007.github.io/fondobinario1/ |
 
 ### Lenguajes de programacíon
 ---
