@@ -2,7 +2,7 @@
 <h1 align="center">✨ Hola 👋, soy Enrique Condori ✨</h1>
 <h3 align="center">My hobby es aprender y enseñar programación. 💻</h3>
 
-- 🔗 [Portafolio](https://soykike.com/)
+- 🔗 [Portafolio](https://kikeprogramer007.github.io/cv/)
 - 📩 Correo **xxsoyenriquexx25996@gmail.com**
 
 <h3 align="left">Redes sociales:</h3>
