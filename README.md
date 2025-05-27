@@ -35,7 +35,7 @@
   <a href="https://www.instagram.com/condori2667/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://kikeprogrammer.com/" target="_blank">
+  <a href="https://kikeprogramer007.github.io/cv/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
