@@ -138,7 +138,7 @@
 
 <!--START_SECTION:waka-->
 <div align="center">
-  <img src="https://wakatime.com/share/@kikeProgramer007/8338d49b-8f65-4ac3-a379-0544880ebcc6.svg" width="60%" alt="WakaTime stats" />
+  <img src="https://wakatime.com/share/@kikeProgramer007/67ec55b2-6549-434b-9f1f-524c266f3583.svg" width="60%" alt="WakaTime stats" />
 </div>
 <!--END_SECTION:waka-->
 
