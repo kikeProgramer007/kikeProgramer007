@@ -133,6 +133,15 @@
 </div>
 <!--END_SECTION:waka-->
 
+
+## 💻 Métricas IDEs
+
+<!--START_SECTION:waka-->
+<div align="center">
+  <img src="https://wakatime.com/share/@kikeProgramer007/8338d49b-8f65-4ac3-a379-0544880ebcc6.svg" width="60%" alt="WakaTime stats" />
+</div>
+<!--END_SECTION:waka-->
+
 ## 🐍 Contribuciones Snake
 
 <div align="center">
