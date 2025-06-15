@@ -107,6 +107,7 @@
 | 5 | **Sistema Ventas** | POS con tickets | [🔗 Demo](https://vendamos.kikeprogrammer.com/) | `PHP` `MySQL` `JS` |
 | 6 | **Sistema Farmacia** | Gestión farmacéutica | [🔗 Demo](https://farmacia.kikeprogrammer.com/) | `PHP` `MySQL` `JS` |
 
+
 </div>
 
 ## 🎯 Proyectos Adicionales
@@ -129,10 +130,12 @@
 
 <!--START_SECTION:waka-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kikeProgramer007&theme=react&hide_border=true&bg_color=0D1117&locale=es" alt="WakaTime stats" />
-</div>
-<!--END_SECTION:waka-->
+  
+![hola](https://github-readme-stats.vercel.app/api/wakatime?username=kikeProgramer007&theme=react&hide_border=true&bg_color=0D1117&locale=es)
 
+</div>
+  
+<!--END_SECTION:waka-->
 
 ## 💻 Métricas IDEs
 
