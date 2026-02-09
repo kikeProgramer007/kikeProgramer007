@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://github.com/user-attachments/assets/2fa4d82d-3c5b-445e-bf04-0155ca05caf4">
 
-- 🔭 Actualmente trabajo en **Digicert S.R.L**
+- 🔭 Actualmente trabajo en **IA TECH S.R.L**
 - 🌱 Aprendiendo **Nuevas tecnologías y frameworks**
 - 👨‍💻 Todos mis proyectos en [**kikeprogrammer.com**](https://kikeprogrammer.com/)
 - 📫 Contáctame: **xxsoyenriquexx25996@gmail.com**
